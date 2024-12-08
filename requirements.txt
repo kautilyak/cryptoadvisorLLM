@@ -1,0 +1,9 @@
+langgraph
+langsmith
+typing
+typing-extensions
+matplotlib
+requests
+langchain-openai
+pyperclip
+python-dotenv
